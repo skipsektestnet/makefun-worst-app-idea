@@ -1,0 +1,1 @@
+Plumb: an app that lets your houseplants rate your watering technique in real time, with a premium tier that texts your fern an apology when you forget.
